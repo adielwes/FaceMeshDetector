@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FaceMeshDetector</string>
+    <string name="choose_picture">Choose Picture</string>
+    <string name="detect_face_mesh">Detect Face Mesh</string>
+    <string name="face_picture">face picture</string>
+</resources>
